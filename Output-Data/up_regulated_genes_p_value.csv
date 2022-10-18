@@ -1,0 +1,7 @@
+mRNA,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj
+hsa-miR-10401-3p,5.04,5.42,1.11,4.90,0.00,0.00
+hsa-miR-1268a,2.46,4.40,1.13,3.90,0.00,NA
+hsa-miR-1268b,3.25,2.22,1.12,1.99,0.05,NA
+hsa-miR-3163,1.84,3.96,1.93,2.05,0.04,NA
+hsa-miR-3614-5p,2.52,2.48,1.17,2.13,0.03,NA
+unconservative_12_93095,1.25,3.42,1.58,2.17,0.03,NA
